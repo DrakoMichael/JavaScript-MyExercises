@@ -17,3 +17,50 @@ window.confirm('Tudo bem com você?');
 
 window.prompt('qual é seu nome?');
 //Window -> tela / prompt -> caixa de entrada de texto - input de informação
+
+//-----------------------------------------------------------------
+//Teste Github - ignore! ------------------------------------------
+//-----------------------------------------------------------------
+
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
+window.alert('Olá, Mundo');
+window.confirm('Tudo bem com você?');
+window.prompt('qual é seu nome?');
