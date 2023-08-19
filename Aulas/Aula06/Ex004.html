@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex004 - Aula 06</title>
+    <style>
+        body {
+            font: roboto;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    
+
+    <script>
+        var nome = window.prompt('Qual é seu nome?')
+        document.write(`Olá ${nome}, seu nome tem ${nome.length} letras. <br/>`)
+        document.write(`Seu nome ${nome} em maiúsculas é ${nome.toUpperCase()} <br/>`)
+        document.write(`Seu nome ${nome} em minúsculas é ${nome.toLowerCase()}`)
+
+        //-------------------------------------------------------------
+        //formatação string
+        //var s = 'JavaScript'
+        //s.length -> mostra quantos caracteres a string tem (conta o numero de letras/numero/simbolos e etc)
+        //s.toUpperCase() -> volta tudo com 'MAIÚSCULO'
+        //s.toLowerCase() -> volta tudo com 'minúsculo'
+        //-------------------------------------------------------------
+        //formatação de números
+        //var n1 = 1543.5
+        //n1.toFixed(2) -> volta '1543.50', adiciona duas casas depois do ponto
+        //Exemplo: n1.toLocaleString('pt-BR'{style:'currency', currency:'BRL'}) -> volta o numero em reais, na moeda local
+
+    </script>
+</body>
+</html>

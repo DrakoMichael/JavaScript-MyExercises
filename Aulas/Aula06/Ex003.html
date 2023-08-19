@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex002 - aula 6</title>
+    <style>
+        body {
+            padding: 10px;
+            background-color: lightgrey;
+            font-family: roboto;
+        }
+        h1 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá Mundo</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis, magnam iure fugit at dolores tempora praesentium omnis excepturi porro ipsum beatae doloremque officia minus, dolorem atque recusandae sequi, molestias architecto.</p>
+    <script>
+        //métodos de entrada normalmente entram como string, precisa converter!!!
+        //+ serve para adição e para concatenação | precisa converter o tipo 
+
+        var n1 = Number(window.prompt('digite um número ')) //string
+        var n2 = Number(window.prompt('digite outro número ')) //string
+        var soma = n1 + n2
+        window.alert(`A Soma entre ${n1} e ${n2} é ${soma}`)
+
+        //-----------------------------------------------
+        //String para numero(Number) | Number.parseInt(n) -> numero inteiro | Number.parseFloat(n) -> numero real | 
+        //pode usar somente Number(n), o navegador se e tenta usar ambos
+        //-----------------------------------------------
+
+        //número(Number) para string | String(n) | n.toString - ao contrário
+
+        //-----------------------------------------------
+        //Formatação String
+        //var s = 'javaScript'
+        //'Eu estou aprendendo s' -> não faz interpolação
+        //'eu estou aprnedendo' + s -> usa concatenação
+        //`Eu estou aprendendo ${s}`-> usar template string
+        //${} -> place holder para usar no meio da string
+        //-------------------------------------------------
+        //var s = 'javaScript'
+        //s.lenght -> quantos caracteres a string tem
+        //s.toUppercase() -> tudo para 'MAIÚCULAS' = 'JAVASCRIPT'
+        //s.toLowerCase() -> tudo para 'minúsculas' = 'javascript'
+
+    </script>
+</body>
+</html>
