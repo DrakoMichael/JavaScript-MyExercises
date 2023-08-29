@@ -3,31 +3,30 @@
 // ------------------------------------
 // definir um objeto
 // ------------------------------------
-let pessoa = {
+// let pessoa = {
     
-    // propriedades
-    nome: "Joao",
-    apelido: "Ribeiro",
-    idade: 48,
-    genero: "masculino",
+//     // propriedades
+//     nome: "Joao",
+//     apelido: "Ribeiro",
+//     idade: 48,
+//     genero: "masculino",
 
-    // métodos
-    apresentar_nome: function() {
-        return this.nome + " " + this.apelido
-    },
+//     // métodos
+//     apresentar_nome: function() {
+//         return this.nome + " " + this.apelido
+//     },
 
-    apresentar_idade: function() { 
-        return this.idade + " anos de idade" 
-    },
+//     apresentar_idade: function() { 
+//         return this.idade + " anos de idade" 
+//     },
 
-    hobbies: [
-        'Programação',
-        'Cinema',
-        'Música'
-    ]
-}
+//     hobbies: [
+//         'Programação',
+//         'Cinema',
+//         'Música'
+//     ]
+// }
 
-console.log(pessoa)
 
 // NOTA: As chaves podem surgir também com aspas.
 
